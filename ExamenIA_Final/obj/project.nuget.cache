@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYRoOdZP2AROKhgT6DrF4UgR3+A8bYSRMUuMiVqH2ZO4BAc7DuFjZ3tixO203rLwgoNIkY34KAH49/UXeBYq4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cuban\\Desktop\\Decimo Semestre\\Inteligencia artificial I\\ExamenIA2P\\ExamenIA2P.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cuban\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512",
+    "C:\\Users\\cuban\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

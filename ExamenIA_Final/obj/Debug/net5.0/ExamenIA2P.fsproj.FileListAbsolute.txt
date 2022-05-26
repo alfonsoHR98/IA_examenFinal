@@ -1,0 +1,54 @@
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.exe
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.deps.json
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.runtimeconfig.json
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.runtimeconfig.dev.json
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.pdb
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\FSharp.Core.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.fsprojAssemblyReference.cache
+D:\yesco\Documents\OCTAVO\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.AssemblyInfoInputs.cache
+D:\yesco\Documents\OCTAVO\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.AssemblyInfo.fs
+D:\yesco\Documents\OCTAVO\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.fsproj.CopyComplete
+D:\yesco\Documents\OCTAVO\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.dll
+D:\yesco\Documents\OCTAVO\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.pdb
+D:\yesco\Documents\OCTAVO\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.genruntimeconfig.cache
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.exe
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.deps.json
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.runtimeconfig.json
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.runtimeconfig.dev.json
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\ExamenIA2P.pdb
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\FSharp.Core.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.fsproj.AssemblyReference.cache
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.AssemblyInfoInputs.cache
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.AssemblyInfo.fs
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.fsproj.CopyComplete
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.dll
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.pdb
+C:\Users\cuban\Desktop\Decimo Semestre\Inteligencia artificial I\ExamenIA2P\obj\Debug\net5.0\ExamenIA2P.genruntimeconfig.cache
